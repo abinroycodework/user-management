@@ -5,7 +5,7 @@ function Footer() {
         <>
 
             <div class="footer"> 
-            <h1 class="footertxt">Emplyee Management System@2022</h1>
+            <h1 class="footertxt">User Management System@2022</h1>
             </div>
 
         </>

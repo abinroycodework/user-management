@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className='homebody'>
       <p>
-      Welocome to Employment Management System.
+      Welocome to User Management System.
       </p>
     </div>
   );
